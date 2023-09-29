@@ -12,7 +12,7 @@ console.log (nameInLowerCase)
 let nameInUpperCase = myName.toUpperCase()
 console.log(nameInUpperCase)
 
-let mane = "coder singh";
+let mane = "ahmad usman";
 let newName = "";
 
 const words = mane.split(" ");
